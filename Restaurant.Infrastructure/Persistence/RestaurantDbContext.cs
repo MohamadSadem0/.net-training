@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Restaurant.Domain.Entities;
+
 
 namespace Restaurant.Infrastructure.Persistence
 {
