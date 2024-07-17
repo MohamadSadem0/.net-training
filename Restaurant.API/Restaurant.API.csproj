@@ -14,6 +14,8 @@
     </PackageReference>
     
     <Projectreference Include="../Restaurant.Application/Restaurant.Application.csproj" />
+    
+    <ProjectReference Include="..\Restaurant.Infrastructure\Restaurant.Infrastructure.csproj" />
 
   </ItemGroup>
 

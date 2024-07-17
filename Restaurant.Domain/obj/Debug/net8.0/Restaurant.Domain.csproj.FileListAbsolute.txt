@@ -9,3 +9,4 @@ C:\Users\mhmd\Desktop\.net training 2\Restaurant.Domain\obj\Debug\net8.0\Restaur
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Domain\obj\Debug\net8.0\refint\Restaurant.Domain.dll
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Domain\obj\Debug\net8.0\Restaurant.Domain.pdb
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Domain\obj\Debug\net8.0\ref\Restaurant.Domain.dll
+C:\Users\mhmd\Desktop\.net training 2\Restaurant.Domain\obj\Debug\net8.0\Restaurant.Domain.sourcelink.json

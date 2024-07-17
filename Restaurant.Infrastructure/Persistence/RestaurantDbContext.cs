@@ -9,7 +9,7 @@ internal class RestaurantDbContext :DbContext
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer ("Server=DESKTOP-H92M2PS\\SQLEXPRESS;Database=YourDatabaseName;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer ("Server=DESKTOP-H92M2PS\\SQLEXPRESS;Database=RestaurantsDb;Trusted_Connection=True;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -23,6 +23,6 @@ internal class RestaurantDbContext :DbContext
             .HasMany(r=>r.Dishes)
             .WithOne()
             .HasForeignKey(d=>d.RestaurantId);
-
+            
         }
     }

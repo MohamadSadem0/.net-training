@@ -17,3 +17,4 @@ C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.pdb
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.genruntimeconfig.cache
 C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\ref\Restaurant.Infrastructure.dll
+C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.sourcelink.json
