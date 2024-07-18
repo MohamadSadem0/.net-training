@@ -1,10 +1,12 @@
+using Restaurant.Domain.Entities;
+using Restaurant.Infrastructure.Extensions;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<>()
+builder.Services.AddInfrastructure();
 
 var app = builder.Build();
 
