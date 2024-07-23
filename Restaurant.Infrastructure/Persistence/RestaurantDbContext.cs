@@ -2,16 +2,15 @@ using Microsoft.EntityFrameworkCore;
 using Restaurant.Domain.Entities;
 namespace Restaurant.Infrastructure.Persistence;
 
-internal class RestaurantDbContext :DbContext
+internal class RestaurantDbContext (DbContextOptions<RestaurantDbContext> options) :DbContext(options)
 {
         internal DbSet<Restaurants> Restaurants { get; set;}
         internal DbSet<Dish> Dishes { get; set;}
         
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        {
-            optionsBuilder.UseSqlServer ("Server=DESKTOP-H92M2PS\\SQLEXPRESS;Database=RestaurantsDb;Trusted_Connection=True;TrustServerCertificate=True");
-        }
-
+    //    public RestaurantDbContext: base (options)
+    // {
+    //     
+    // }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -25,4 +24,4 @@ internal class RestaurantDbContext :DbContext
             .HasForeignKey(d=>d.RestaurantId);
             
         }
-    }
+}
