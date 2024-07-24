@@ -1478,19 +1478,6 @@
           }
         }
       },
-      "Restaurant.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Restaurant.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Restaurant.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Restaurant.Application.dll": {}
-        }
-      },
       "Restaurant.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1506,8 +1493,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.7",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7",
-          "Restaurant.Application": "1.0.0"
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
+          "Restaurant.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Restaurant.Infrastructure.dll": {}
@@ -4048,11 +4035,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Restaurant.Application/1.0.0": {
-      "type": "project",
-      "path": "../Restaurant.Application/Restaurant.Application.csproj",
-      "msbuildProject": "../Restaurant.Application/Restaurant.Application.csproj"
-    },
     "Restaurant.Domain/1.0.0": {
       "type": "project",
       "path": "../Restaurant.Domain/Restaurant.Domain.csproj",
@@ -4068,24 +4050,24 @@
     "net8.0": [
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.0",
-      "Restaurant.Application >= 1.0.0",
+      "Restaurant.Domain >= 1.0.0",
       "Restaurant.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mhmd\\.nuget\\packages\\": {}
+    "/home/mhmd/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.API\\Restaurant.API.csproj",
+      "projectUniqueName": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.API/Restaurant.API.csproj",
       "projectName": "Restaurant.API",
-      "projectPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.API\\Restaurant.API.csproj",
-      "packagesPath": "C:\\Users\\mhmd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.API\\obj\\",
+      "projectPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.API/Restaurant.API.csproj",
+      "packagesPath": "/home/mhmd/.nuget/packages/",
+      "outputPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mhmd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/mhmd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -4097,11 +4079,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Application\\Restaurant.Application.csproj": {
-              "projectPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Application\\Restaurant.Application.csproj"
+            "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Domain/Restaurant.Domain.csproj": {
+              "projectPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Domain/Restaurant.Domain.csproj"
             },
-            "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Infrastructure\\Restaurant.Infrastructure.csproj"
+            "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/Restaurant.Infrastructure.csproj": {
+              "projectPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/Restaurant.Infrastructure.csproj"
             }
           }
         }
@@ -4110,11 +4092,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -4151,19 +4128,8 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: Microsoft.EntityFrameworkCore.SqlServer from 8.0.7 to 8.0.0. Reference the package directly from the project to select a different version. \r\n Restaurant.API -> Restaurant.Infrastructure -> Microsoft.EntityFrameworkCore.SqlServer (>= 8.0.7) \r\n Restaurant.API -> Microsoft.EntityFrameworkCore.SqlServer (>= 8.0.0)",
-      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  }
 }

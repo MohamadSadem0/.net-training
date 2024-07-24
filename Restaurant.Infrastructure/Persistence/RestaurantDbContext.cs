@@ -7,10 +7,7 @@ internal class RestaurantDbContext (DbContextOptions<RestaurantDbContext> option
         internal DbSet<Restaurants> Restaurants { get; set;}
         internal DbSet<Dish> Dishes { get; set;}
         
-    //    public RestaurantDbContext: base (options)
-    // {
-    //     
-    // }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

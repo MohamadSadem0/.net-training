@@ -1,20 +1,40 @@
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Infrastructure.deps.json
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Infrastructure.runtimeconfig.json
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Infrastructure.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Infrastructure.pdb
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Application.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Domain.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Application.pdb
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\bin\Debug\net8.0\Restaurant.Domain.pdb
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.csproj.AssemblyReference.cache
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.AssemblyInfoInputs.cache
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.AssemblyInfo.cs
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaura.93EDDBD4.Up2Date
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\refint\Restaurant.Infrastructure.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.pdb
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.genruntimeconfig.cache
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\ref\Restaurant.Infrastructure.dll
-C:\Users\mhmd\Desktop\.net training 2\Restaurant.Infrastructure\obj\Debug\net8.0\Restaurant.Infrastructure.sourcelink.json
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.deps.json
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.runtimeconfig.json
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.pdb
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Application.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Domain.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Application.pdb
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Domain.pdb
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.csproj.AssemblyReference.cache
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.AssemblyInfoInputs.cache
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.AssemblyInfo.cs
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaura.93EDDBD4.Up2Date
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/refint/Restaurant.Infrastructure.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.pdb
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.genruntimeconfig.cache
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/ref/Restaurant.Infrastructure.dll
+C:/Users/mhmd/Desktop/.net training 2/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.sourcelink.json
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.csproj.AssemblyReference.cache
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.AssemblyInfoInputs.cache
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.AssemblyInfo.cs
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.csproj.CoreCompileInputs.cache
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.sourcelink.json
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.dll
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/refint/Restaurant.Infrastructure.dll
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.pdb
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.deps.json
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.runtimeconfig.json
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.dll
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Infrastructure.pdb
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Application.dll
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Domain.dll
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Domain.pdb
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/bin/Debug/net8.0/Restaurant.Application.pdb
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaura.93EDDBD4.Up2Date
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/Restaurant.Infrastructure.genruntimeconfig.cache
+/home/mhmd/Desktop/c# training/.net-training/Restaurant.Infrastructure/obj/Debug/net8.0/ref/Restaurant.Infrastructure.dll

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mhmd\\.nuget\\packages\\": {}
+    "/home/mhmd/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Domain\\Restaurant.Domain.csproj",
+      "projectUniqueName": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Domain/Restaurant.Domain.csproj",
       "projectName": "Restaurant.Domain",
-      "projectPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Domain\\Restaurant.Domain.csproj",
-      "packagesPath": "C:\\Users\\mhmd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mhmd\\Desktop\\.net training 2\\Restaurant.Domain\\obj\\",
+      "projectPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Domain/Restaurant.Domain.csproj",
+      "packagesPath": "/home/mhmd/.nuget/packages/",
+      "outputPath": "/home/mhmd/Desktop/c# training/.net-training/Restaurant.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mhmd\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/mhmd/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
